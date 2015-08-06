@@ -1,2 +1,3 @@
 # react-tutorial
-Just going through the React tutorial here: https://facebook.github.io/react/docs/tutorial.html
+Following along with the React tutorial found here: https://facebook.github.io/react/docs/tutorial.html.
+Nothing fancy!
